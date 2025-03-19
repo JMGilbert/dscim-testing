@@ -1,0 +1,6 @@
+*.nc
+*.nc4
+*.zarr
+*.zarr/
+*.zarr.*
+*.csv
