@@ -27,3 +27,4 @@ dependencies:
       - impactlab-tools==0.6.0
       - inquirer==2.10.0
       - pyyaml==6.0.1
+      - dscim
